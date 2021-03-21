@@ -1,0 +1,6 @@
+
+Rjavascript:S1481"8Remove the declaration of the unused 'plotObj' variable.(ÑÀã©
+Rjavascript:S1481"8Remove the declaration of the unused 'plotObj' variable.(’Àœ
+Ojavascript:S1854"5Remove this useless assignment to variable "plotObj".(ÑÀã©
+Ojavascript:S1854"5Remove this useless assignment to variable "plotObj".(’Àœ
+{javascript:S2703"\Add the "let", "const" or "var" keyword to this declaration of "series" to make it explicit.(·ÎôØÿÿÿÿÿ

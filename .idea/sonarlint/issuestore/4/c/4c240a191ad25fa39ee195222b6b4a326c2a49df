@@ -1,0 +1,9 @@
+
+e
+java:S1874;"CRemove this use of "APPLICATION_JSON_UTF8_VALUE"; it is deprecated.(ÃëõÌüÿÿÿÿ8¤ıß±‚/
+e
+java:S1192$"HDefine a constant instead of duplicating this literal "success" 3 times.(æ†çÓ8»§ï±‚/
+O
+java:S1128"2Remove this unused import 'javax.xml.ws.Response'.(ğá¼‹8°“µ±‚/
+e
+java:S1874,"CRemove this use of "APPLICATION_JSON_UTF8_VALUE"; it is deprecated.(ÃëõÌüÿÿÿÿ8Ú¾Ò±‚/
